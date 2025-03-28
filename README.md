@@ -1,4 +1,3 @@
-# Time-Series-Modelling
 # Stock Price Prediction using Time Series Models
 
 This project implements and compares different time series forecasting models to predict Apple Inc. (AAPL) stock prices. The models include LSTM, GRU (deep learning approaches), ARIMA, and Prophet (traditional statistical methods).
