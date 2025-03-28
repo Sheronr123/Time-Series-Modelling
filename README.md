@@ -39,14 +39,14 @@ This project implements and compares different time series forecasting models to
 
 - Python 3.8+
 - Libraries:
-pandas
-numpy
-yfinance
-pandas_ta
-scikit-learn
-tensorflow/keras
-statsmodels
-prophet
+pandas,
+numpy,
+yfinance,
+pandas_ta,
+scikit-learn,
+tensorflow/keras,
+statsmodels,
+prophet,
 matplotlib
 
 
@@ -56,14 +56,4 @@ matplotlib
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the Jupyter notebook: `jupyter notebook stock_prediction.ipynb`
 
-## Future Improvements
 
-- Incorporate additional features (news sentiment, macroeconomic indicators)
-- Experiment with transformer-based models
-- Implement automated hyperparameter tuning
-- Add trading strategy backtesting
-
-## Visualization
-
-![Prediction Comparison](prediction_comparison.png)
-*Comparison of actual vs predicted prices across different models*
